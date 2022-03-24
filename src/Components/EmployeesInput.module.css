@@ -1,0 +1,19 @@
+.render {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+}
+
+.input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+}
+
+.input input {
+    margin-left: 20px;
+}
+
+.input select {
+    margin-left: 10px;
+}

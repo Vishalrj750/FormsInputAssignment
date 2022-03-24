@@ -1,0 +1,10 @@
+.table {
+    text-align: left;
+    margin: auto;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #cecece;
+    box-shadow: 10px 5px 5px rgb(190, 170, 170);
+    border-radius: 20px;
+}

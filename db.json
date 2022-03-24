@@ -1,0 +1,74 @@
+{
+  "details": [
+    {
+      "name": "vishal",
+      "gender": "male",
+      "age": "25",
+      "address": "basharatpur",
+      "department": "IT",
+      "salary": "2500",
+      "isMarried": true,
+      "id": 1
+    },
+    {
+      "name": "rahul",
+      "gender": "male",
+      "age": "25",
+      "address": "basharatpur",
+      "department": "marketting",
+      "salary": "2500",
+      "isMarried": true,
+      "id": 2
+    },
+    {
+      "name": "ajeet",
+      "gender": "male",
+      "age": "25",
+      "address": "basharatpur",
+      "department": "marketting",
+      "salary": "2500",
+      "isMarried": true,
+      "id": 3
+    },
+    {
+      "name": "nagesh",
+      "gender": "male",
+      "age": "20",
+      "address": "basharatpur",
+      "department": "marketting",
+      "salary": "2500",
+      "isMarried": false,
+      "id": 4
+    },
+    {
+      "name": "naresh",
+      "gender": "male",
+      "age": "25",
+      "address": "basharatpur",
+      "department": "finance",
+      "salary": "2500",
+      "isMarried": true,
+      "id": 5
+    },
+    {
+      "name": "Amrita",
+      "gender": "female",
+      "age": "22",
+      "address": "Dharampur",
+      "department": "HR",
+      "salary": "2200",
+      "isMarried": true,
+      "id": 6
+    },
+    {
+      "name": "Neeta",
+      "gender": "female",
+      "age": "23",
+      "address": "Dharampur",
+      "department": "finance",
+      "salary": "3000",
+      "isMarried": false,
+      "id": 7
+    }
+  ]
+}
